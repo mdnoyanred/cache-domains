@@ -1,1 +1,2 @@
 *.tiktokcdn.com
+sf16-scmcdn-sg.ibytedtos.com
