@@ -125,6 +125,7 @@
 		{
 			"name": "tiktok",
 			"description": "CDN for tiktok updates",
+			"mixed_content": true,
 			"domain_files": ["tiktok.txt"]
 		},
 		{
