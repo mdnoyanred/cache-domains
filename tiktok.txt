@@ -1,6 +1,6 @@
 *.tiktok.com
 *.tiktokcdn.com
-sf16-scmcdn-sg.ibytedtos.com
+*.ibytedtos.com
 sf16-scmcdn-sg.ibytedtos.com
 sf16-sg.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
