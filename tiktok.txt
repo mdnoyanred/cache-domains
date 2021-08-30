@@ -1,3 +1,1 @@
-*.tiktokcdn.com
-*.ibytedtos.com
-video.like.video
+
