@@ -1,3 +1,2 @@
 video.like.video
 videosnap.like.video
-*.cubetecn.com
