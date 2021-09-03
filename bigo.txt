@@ -1,2 +1,4 @@
-esg.bigo.sg
+bd-cdn.bigo.sg
+bd-cdn.imoim.net
+bd-esx.piojm.tech
 *.bigolive.tv
