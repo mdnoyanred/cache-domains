@@ -129,10 +129,16 @@
 			"domain_files": ["tiktok.txt"]
 		},
 		{
-			"name": "tiktok",
-			"description": "CDN for tiktok updates",
+			"name": "likee",
+			"description": "CDN for likee updates",
 			"mixed_content": true,
 			"domain_files": ["likee.txt"]
+		},
+		{
+			"name": "bigo",
+			"description": "CDN for bigo updates",
+			"mixed_content": true,
+			"domain_files": ["bigo.txt"]
 		},
 		{
 			"name": "xboxlive",
