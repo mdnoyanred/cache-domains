@@ -6,3 +6,4 @@ bd-esx.piojm.tech
 *.bigolive.tv
 *.bigo.sg
 *.live.bigo.sg
+*.bigo.tv
