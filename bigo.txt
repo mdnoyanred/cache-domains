@@ -2,7 +2,6 @@ lbs.live.bigo.sg
 bd-cdn.bigo.sg
 bd-cdn.imoim.net
 bd-esx.piojm.tech
-*.imolive2.com
 *.bigolive.tv
 *.bigo.sg
 *.live.bigo.sg
