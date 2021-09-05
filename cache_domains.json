@@ -141,6 +141,12 @@
 			"domain_files": ["bigo.txt"]
 		},
 		{
+			"name": "akamai",
+			"description": "CDN for bigo updates",
+			"mixed_content": true,
+			"domain_files": ["akamai.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
