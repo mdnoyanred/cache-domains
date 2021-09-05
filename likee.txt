@@ -1,2 +1,3 @@
 video.like.video
 videosnap.like.video
+*.like.video
