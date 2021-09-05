@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "akamai",
-			"description": "CDN for bigo updates",
+			"description": "CDN for akamai updates",
 			"mixed_content": true,
 			"domain_files": ["akamai.txt"]
 		},
