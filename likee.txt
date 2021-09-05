@@ -1,3 +1,4 @@
 video.like.video
 videosnap.like.video
 *.like.video
+*.like-video.com
