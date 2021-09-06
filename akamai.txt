@@ -1,2 +1,3 @@
 *.akamaized.net
 *.r.akamai.net
+*.b.akamai.net
