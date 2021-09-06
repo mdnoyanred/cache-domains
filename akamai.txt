@@ -1,4 +1,5 @@
 *.akamaized.net
 *.r.akamai.net
 *.b.akamai.net
+*.w73.akamai.net
 *.akam.net
