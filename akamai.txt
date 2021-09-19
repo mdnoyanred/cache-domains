@@ -12,6 +12,7 @@
 *.api9.akamaiedge.net
 *.api10.akamaiedge.net
 *.api11.akamaiedge.net
+*.*.akamaiedge.net
 *.a.akamaiedge.net
 *.a.akamai.net
 *.b.akamai.net
