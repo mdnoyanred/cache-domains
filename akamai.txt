@@ -1,3 +1,4 @@
+*.cloudfront.net
 *.w73.akamai.net
 *.akam.net
 *.api12.akamaiedge.net
