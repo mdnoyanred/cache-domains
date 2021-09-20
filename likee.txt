@@ -1,8 +1,8 @@
 video.like.video
 video2.like.video
+lbs-as.like.video
 videosnap.like.video
 bd-cdn.news-cdn.site
 bd-img.like.video
 gdl.masala.sh
 bstream.sgmbocast.com
-lbs-as.like.video
