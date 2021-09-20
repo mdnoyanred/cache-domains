@@ -5,3 +5,4 @@ bd-cdn.news-cdn.site
 bd-img.like.video
 gdl.masala.sh
 bstream.sgmbocast.com
+lbs-as.like.video
