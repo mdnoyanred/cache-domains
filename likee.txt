@@ -1,7 +1,10 @@
 video.like.video
 video2.like.video
 lbs-as.like.video
+lbs.like.video
+https-api.like.video
 videosnap.like.video
+videosnap2.like.video
 bd-cdn.news-cdn.site
 bd-img.like.video
 gdl.masala.sh
