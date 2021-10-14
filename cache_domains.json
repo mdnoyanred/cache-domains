@@ -3,31 +3,26 @@
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
-			"mixed_content": true,
 			"domain_files": ["arenanet.txt"]
 		},
 		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
-			"mixed_content": true,
 			"domain_files": ["blizzard.txt"]
 		},
 		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
-			"mixed_content": true,
 			"domain_files": ["bsg.txt"]
 		},
 		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
-			"mixed_content": true,
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
-			"mixed_content": true,
 			"domain_files": ["daybreak.txt"]
 		},
 		{
@@ -38,19 +33,16 @@
 		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
-			"mixed_content": true,
 			"domain_files": ["frontier.txt"]
 		},
 		{
 			"name": "hirez",
 			"description": "CDN for hirez",
-			"mixed_content": true,
 			"domain_files": ["hirez.txt"]
 		},
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
-			"mixed_content": true,
 			"domain_files": ["nexusmods.txt"]
 		},
 		{
@@ -167,12 +159,6 @@
 			"description": "CDN for bigo updates",
 			"mixed_content": true,
 			"domain_files": ["bigo.txt"]
-		},
-		{
-			"name": "akamai",
-			"description": "CDN for akamai updates",
-			"mixed_content": true,
-			"domain_files": ["akamai.txt"]
 		}
 	]
 }
