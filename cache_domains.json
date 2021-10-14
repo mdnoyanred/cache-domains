@@ -100,6 +100,7 @@
 		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
+			"mixed_content": true,
 			"domain_files": ["uplay.txt"]
 		},
 		{
