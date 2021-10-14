@@ -3,56 +3,67 @@
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
+			"mixed_content": true,
 			"domain_files": ["arenanet.txt"]
 		},
 		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
+			"mixed_content": true,
 			"domain_files": ["blizzard.txt"]
 		},
 		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
+			"mixed_content": true,
 			"domain_files": ["bsg.txt"]
 		},
 		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
+			"mixed_content": true,
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
+			"mixed_content": true,
 			"domain_files": ["daybreak.txt"]
 		},
 		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
+			"mixed_content": true,
 			"domain_files": ["epicgames.txt"]
 		},
 		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
+			"mixed_content": true,
 			"domain_files": ["frontier.txt"]
 		},
 		{
 			"name": "hirez",
 			"description": "CDN for hirez",
+			"mixed_content": true,
 			"domain_files": ["hirez.txt"]
 		},
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
+			"mixed_content": true,
 			"domain_files": ["nexusmods.txt"]
 		},
 		{
 			"name": "neverwinter",
 			"description": "Cryptic CDN for Neverwinter",
+			"mixed_content": true,
 			"domain_files": ["neverwinter.txt"]
 		},
 		{
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
+			"mixed_content": true,
 			"domain_files": ["nintendo.txt"]
 		},
 		{
@@ -65,36 +76,43 @@
 		{
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
+			"mixed_content": true,
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
+			"mixed_content": true,
 			"domain_files": ["renegadex.txt"]
 		},
 		{
 			"name": "riot",
 			"description": "CDN for riot games",
+			"mixed_content": true,
 			"domain_files": ["riot.txt"]
 		},
 		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
+			"mixed_content": true,
 			"domain_files": ["rockstar.txt"]
 		},
 		{
 			"name": "sony",
 			"description": "CDN for sony / playstation",
+			"mixed_content": true,
 			"domain_files": ["sony.txt"]
 		},
 		{
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
+			"mixed_content": true,
 			"domain_files": ["square.txt"]
 		},
 		{
 			"name": "steam",
 			"description": "CDN for steam platform",
+			"mixed_content": true,
 			"domain_files": ["steam.txt"]
 		},
 		{
@@ -106,16 +124,19 @@
 		{
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
+			"mixed_content": true,
 			"domain_files": ["teso.txt"]
 		},
 		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
+			"mixed_content": true,
 			"domain_files": ["warframe.txt"]
 		},
 		{
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
+			"mixed_content": true,
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
