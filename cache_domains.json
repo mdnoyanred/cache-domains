@@ -120,7 +120,14 @@
 		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
+			"mixed_content": true,
 			"domain_files": ["windowsupdates.txt"]
+		},
+		{
+			"name": "xboxlive",
+			"description": "CDN for xboxlive",
+			"mixed_content": true,
+			"domain_files": ["xboxlive.txt"]
 		},
 		{
 			"name": "tiktok",
@@ -145,11 +152,6 @@
 			"description": "CDN for akamai updates",
 			"mixed_content": true,
 			"domain_files": ["akamai.txt"]
-		},
-		{
-			"name": "xboxlive",
-			"description": "CDN for xboxlive",
-			"domain_files": ["xboxlive.txt"]
 		}
 	]
 }
