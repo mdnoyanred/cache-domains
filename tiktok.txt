@@ -3,3 +3,4 @@
 *.byteicdn.com
 mcs-sg.tiktok.com
 mon-va.byteoversea.com
+mssdk-va.tiktokv.com
