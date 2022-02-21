@@ -4,3 +4,6 @@
 mcs-sg.tiktok.com
 mon-va.byteoversea.com
 mssdk-va.tiktokv.com
+mcs-va.tiktok.com
+p16-sign.tiktokcdn-us.com
+v16-webapp.tiktok.com
