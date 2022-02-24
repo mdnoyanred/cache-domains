@@ -1,6 +1,7 @@
 *.tiktokcdn.com
 *.ibytedtos.com
 *.byteicdn.com
+*.ttlivecdn.com
 mcs-sg.tiktok.com
 mon-va.byteoversea.com
 mssdk-va.tiktokv.com
