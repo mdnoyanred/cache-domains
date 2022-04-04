@@ -1,9 +1,1 @@
-*.news-cdn.site
-*.wshareit.com
-*.ushareit.com
-static.rqmob.com
-shareit-push-cdn.wshareit.com
-captive.apple.com
-www.msftconnecttest.com
-insight.ucweb.com
-impression.appsflyer.com
+
